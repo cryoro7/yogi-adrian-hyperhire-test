@@ -125,7 +125,7 @@ export const SlideshowCard = ({
                       />
                       <Image
                         src={card.flag}
-                        class="absolute bottom-0 right-0 w-8 h-8"
+                        className="absolute bottom-0 right-0 w-8 h-8"
                         alt="profile image"
                         width={120}
                         height={120}
