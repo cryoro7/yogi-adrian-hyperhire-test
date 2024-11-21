@@ -39,7 +39,7 @@ export async function GET() {
       profileImageUrl:
         "https://s3-alpha-sig.figma.com/img/e223/2669/f5acc1421ab983285005f3855fea261f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cnrDfiLjTDgz0QcRzalMAzAJjD8pP3TXBvtZI5J2y4YDNV4-HMaOUlWHV6WMEu8D0aLin7DVUZoNeH~78RcliWBAlw0w9vZNcd2U4CTtaTQzRz5k77E6xelRXvg8j-CUbDJj2hQp0G5nLwKuqGCi7yxPfTOwxwtfEZOjW5EzMNmW0vvwmaWzSsV~de--XPEIWVDnACUeqrh56YsO9FJjupcg8pk57dcK1vFCLVzcBcmq~~iUJbLn6sbUN0JiAb2jqZ2pHp92219iI9k0SYhYFQ0EwxGVg4-D4j5zPvdC4opFsMDeCrVdYV-MeVZXkH9Iy95zOCPtqv5sJm1penzurA__",
       flag: "https://s3-alpha-sig.figma.com/img/fe4c/5714/071ca88d9d6e607dff42c41cfe41a595?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Pwtk-FT5zmpiPJI2yXwWnrgT5EjxipurSinJ1~4M6xgB2XDqIiUZrNCxDyp4zfvpPhrO-G9dZ5HNpPE9pM-gDPj9jfO1p6MmRZu9IbngYnzXcX9XbZ9BVbtNeaRXS31R06wcYfV7GuOdx2LgtN6TzmLBeqThkf7AbyRcjKWLlgN~oAnZCoM3tGEvi33~oxiJkpJ4QAsqa2ow8AcL2lDikeOx7ZxbSTUOZfnufSuARh~bnstnkfwRUXGcrtqoIC~PCW6hcBbSQ9M3l6NtwjEq5QTwRsNoh85SgeZM-8i1QKnhQzXlnWukmYFjEtZspfP2uIdDQbbyllFGDST-6UpGEA__",
-      name: "Dmo 1",
+      name: "Abhishek Gupta",
       designation: "마케팅",
       exp: "2y+",
       skills: [
@@ -53,7 +53,7 @@ export async function GET() {
       profileImageUrl:
         "https://s3-alpha-sig.figma.com/img/e223/2669/f5acc1421ab983285005f3855fea261f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cnrDfiLjTDgz0QcRzalMAzAJjD8pP3TXBvtZI5J2y4YDNV4-HMaOUlWHV6WMEu8D0aLin7DVUZoNeH~78RcliWBAlw0w9vZNcd2U4CTtaTQzRz5k77E6xelRXvg8j-CUbDJj2hQp0G5nLwKuqGCi7yxPfTOwxwtfEZOjW5EzMNmW0vvwmaWzSsV~de--XPEIWVDnACUeqrh56YsO9FJjupcg8pk57dcK1vFCLVzcBcmq~~iUJbLn6sbUN0JiAb2jqZ2pHp92219iI9k0SYhYFQ0EwxGVg4-D4j5zPvdC4opFsMDeCrVdYV-MeVZXkH9Iy95zOCPtqv5sJm1penzurA__",
       flag: "https://s3-alpha-sig.figma.com/img/fe4c/5714/071ca88d9d6e607dff42c41cfe41a595?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Pwtk-FT5zmpiPJI2yXwWnrgT5EjxipurSinJ1~4M6xgB2XDqIiUZrNCxDyp4zfvpPhrO-G9dZ5HNpPE9pM-gDPj9jfO1p6MmRZu9IbngYnzXcX9XbZ9BVbtNeaRXS31R06wcYfV7GuOdx2LgtN6TzmLBeqThkf7AbyRcjKWLlgN~oAnZCoM3tGEvi33~oxiJkpJ4QAsqa2ow8AcL2lDikeOx7ZxbSTUOZfnufSuARh~bnstnkfwRUXGcrtqoIC~PCW6hcBbSQ9M3l6NtwjEq5QTwRsNoh85SgeZM-8i1QKnhQzXlnWukmYFjEtZspfP2uIdDQbbyllFGDST-6UpGEA__",
-      name: "Demo 2",
+      name: "Abhishek Gupta",
       designation: "마케팅",
       exp: "2y+",
       skills: [
@@ -67,7 +67,7 @@ export async function GET() {
       profileImageUrl:
         "https://s3-alpha-sig.figma.com/img/e223/2669/f5acc1421ab983285005f3855fea261f?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cnrDfiLjTDgz0QcRzalMAzAJjD8pP3TXBvtZI5J2y4YDNV4-HMaOUlWHV6WMEu8D0aLin7DVUZoNeH~78RcliWBAlw0w9vZNcd2U4CTtaTQzRz5k77E6xelRXvg8j-CUbDJj2hQp0G5nLwKuqGCi7yxPfTOwxwtfEZOjW5EzMNmW0vvwmaWzSsV~de--XPEIWVDnACUeqrh56YsO9FJjupcg8pk57dcK1vFCLVzcBcmq~~iUJbLn6sbUN0JiAb2jqZ2pHp92219iI9k0SYhYFQ0EwxGVg4-D4j5zPvdC4opFsMDeCrVdYV-MeVZXkH9Iy95zOCPtqv5sJm1penzurA__",
       flag: "https://s3-alpha-sig.figma.com/img/fe4c/5714/071ca88d9d6e607dff42c41cfe41a595?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Pwtk-FT5zmpiPJI2yXwWnrgT5EjxipurSinJ1~4M6xgB2XDqIiUZrNCxDyp4zfvpPhrO-G9dZ5HNpPE9pM-gDPj9jfO1p6MmRZu9IbngYnzXcX9XbZ9BVbtNeaRXS31R06wcYfV7GuOdx2LgtN6TzmLBeqThkf7AbyRcjKWLlgN~oAnZCoM3tGEvi33~oxiJkpJ4QAsqa2ow8AcL2lDikeOx7ZxbSTUOZfnufSuARh~bnstnkfwRUXGcrtqoIC~PCW6hcBbSQ9M3l6NtwjEq5QTwRsNoh85SgeZM-8i1QKnhQzXlnWukmYFjEtZspfP2uIdDQbbyllFGDST-6UpGEA__",
-      name: "Demo 3",
+      name: "Abhishek Gupta",
       designation: "마케팅",
       exp: "2y+",
       skills: [
